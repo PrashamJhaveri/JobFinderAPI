@@ -1,0 +1,14 @@
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.csprojAssemblyReference.cache
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.csproj.CoreCompileInputs.cache
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.RazorAssemblyInfo.cache
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.RazorAssemblyInfo.cs
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.AssemblyInfoInputs.cache
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.AssemblyInfo.cs
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/bin/Debug/netcoreapp2.2/JobFinderAPI.deps.json
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/bin/Debug/netcoreapp2.2/JobFinderAPI.runtimeconfig.json
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/bin/Debug/netcoreapp2.2/JobFinderAPI.runtimeconfig.dev.json
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/bin/Debug/netcoreapp2.2/JobFinderAPI.dll
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/bin/Debug/netcoreapp2.2/JobFinderAPI.pdb
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.RazorTargetAssemblyInfo.cache
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.dll
+/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/Debug/netcoreapp2.2/JobFinderAPI.pdb
