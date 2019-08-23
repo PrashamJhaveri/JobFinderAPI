@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj": {}
+    "/Users/prashamjhaveri/Desktop/MSA19/Final/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj": {}
   },
   "projects": {
-    "/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj": {
+    "/Users/prashamjhaveri/Desktop/MSA19/Final/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj",
+        "projectUniqueName": "/Users/prashamjhaveri/Desktop/MSA19/Final/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj",
         "projectName": "JobFinderAPI",
-        "projectPath": "/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj",
+        "projectPath": "/Users/prashamjhaveri/Desktop/MSA19/Final/JobFinderAPI/JobFinderAPI/JobFinderAPI.csproj",
         "packagesPath": "/Users/prashamjhaveri/.nuget/packages/",
-        "outputPath": "/Users/prashamjhaveri/Desktop/MSA19/JobFinderAPI/JobFinderAPI/obj/",
+        "outputPath": "/Users/prashamjhaveri/Desktop/MSA19/Final/JobFinderAPI/JobFinderAPI/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -43,13 +43,13 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "HtmlAgilityPack": {
               "target": "Package",
               "version": "[1.11.12, )"
-            },
-            "Microsoft.AspNetCore.All": {
-              "target": "Package",
-              "version": "[2.2.6, )"
             },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -67,6 +67,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [

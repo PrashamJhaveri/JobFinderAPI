@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BC52AB99-1898-4EE1-A1B3-925EBFEB16ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobFinderAPI/Startup.cs">
+    <Files>
+      <File FileName="JobFinderAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobFinderAPI" expanded="True">
+            <Node name="JobFinderAPI" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JobFinderAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
